@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @DennisCorabi
-- 👀 I’m interested in INFORMATICA 
-- 🌱 I’m currently learning INFORMATICA
-- 💞️ I’m looking to collaborate on INFORMATICA STUFF
 
 Serve aggiungere altro?
 
