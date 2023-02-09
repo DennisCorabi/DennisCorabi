@@ -1,6 +1,4 @@
-Hi! I'm Dennis Corabi! I am a student at IIS. A.Badoni high school in Lecco, Italy.
-
-I love programming in every form and I hope to become a software developer in the future!
+Dennis Corabi, a student at IIS. A.Badoni high school in Lecco, Italy.
 
 <!---
 DennisCorabi/DennisCorabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
