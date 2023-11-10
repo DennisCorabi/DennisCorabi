@@ -1,7 +1,7 @@
 Hi! I'm Dennis Corabi and I am a computer science student at Bicocca university in Milan.
 I am also working for a company, MAS Consulting, as a junior full-stack software developer.
 
-## next steps
+## Next steps
 - Get Bachelor's degree in CS
 - Get IELTS certification
 - Start contributing in open source projects 
